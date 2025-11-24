@@ -1,4 +1,5 @@
 # jnudi352.github.io
+
 body {
     font-family: Arial, sans-serif;
     margin: 40px;
@@ -92,6 +93,7 @@ function searchMajor() {
     });
 }
 
-index.html
-styles.css
-script.js
+your-repo/
+   index.html
+   script.js
+   styles.css
